@@ -1,7 +1,7 @@
 # TODO: import necessary libraries
 from matplotlib import pyplot as plt
 import math
-from distributions import Distribution
+from Generaldistribution import Distribution
 
 # TODO: make a Binomial class that inherits from the Distribution class. Use the specifications below.
 
