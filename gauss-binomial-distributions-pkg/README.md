@@ -1,4 +1,4 @@
-# prob-distribution
+# gauss-binomial-distributions-pkg
 
 ### Summary of the package
 
@@ -6,4 +6,4 @@ Package to implement probability distribution functions and visualization of a d
 
 ### Installation
 
-pip install prob-distribution
+pip install gauss-binomial-distributions-pkg
