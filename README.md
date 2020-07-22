@@ -6,12 +6,12 @@ A fully functional python package
 Package to implement functionalities of Gauss and Binomial probability distributions. 
 
 ##### It has the following functionalities:
-    Read data file,
-    Calculate mean,
-    Calculate standard deviation,
-    Plot histogram of data,
-    Finding probability density function,
-    Plot normalized histogram of the data and a plot probability density function along the same range,
+    * Read data file,
+    * Calculate mean,
+    * Calculate standard deviation,
+    * Plot histogram of data,
+    * Finding probability density function,
+    * Plot normalized histogram of the data and a plot probability density function along the same range,
 
     
 ### Installation
