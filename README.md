@@ -3,7 +3,7 @@ A fully functional python package
 #### Uploaded to [Python Package Index (PiPy) repository](https://pypi.org/project/gauss-binomial-prob-distributions/)
 
 ### Summary of the package
-Package to implement functionalities of Gauss and Binomial probability distributions. 
+Package to implement functionalities and visualization of Gauss and Binomial probability distributions. 
 
 ##### It has the following functionalities:
 1. Read data file,
@@ -15,6 +15,6 @@ Package to implement functionalities of Gauss and Binomial probability distribut
 
     
 ### Installation
-pip install gauss_binomial_prob_distributions
+    pip install gauss_binomial_prob_distributions
 
 *adding this README.md to add information about this repository. The inner one is for uploading it to **PyPi** *
